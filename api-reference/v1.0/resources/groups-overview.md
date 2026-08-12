@@ -255,7 +255,7 @@ The Microsoft Graph groups API supports these common operations:
 |--|--|
 | **Create and manage groups** | [Create](../api/group-post-groups.md), [list](../api/group-list.md), [update](../api/group-update.md), and [delete](../api/group-delete.md) |
 | **Manage group membership** | [List members](../api/group-list-members.md), [add member](../api/group-post-members.md), and [remove member](../api/group-delete-members.md) |
-| **Manage group ownership** | [List owners](../api/group-list-owners.md), [add owner](../api/group-post-members.md), and [remove owner](../api/group-delete-members.md) |
+| **Manage group ownership** | [List owners](../api/group-list-owners.md), [add owner](../api/group-post-owners.md), and [remove owner](../api/group-delete-owners.md) |
 | **Microsoft 365 group functionality** | [Manage conversations](../api/group-post-conversations.md), [calendar events](../api/group-post-events.md), [OneNote notebooks](../api/onenote-post-notebooks.md), and [enable for Teams](../api/team-put-teams.md) |
 
 ## Microsoft Entra roles for managing groups
